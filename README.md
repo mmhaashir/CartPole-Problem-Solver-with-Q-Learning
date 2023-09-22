@@ -21,12 +21,12 @@ The CartPole problem is a classic reinforcement learning problem where the goal 
 
 To run this code, you will need the following Python libraries:
 
-- [**Gym:**] OpenAI Gym provides the environment for the CartPole problem.
-- [**TensorFlow:**] TensorFlow is used for deep reinforcement learning.
-- [**NumPy:**] NumPy is used for numerical operations.
-- [**Math:**] Basic math operations are utilized in the code.
-- [**Matplotlib:**] Matplotlib is used for plotting the rewards over episodes.
-- [**Time:**] Time is used for tracking the execution time.
+- **Gym:** OpenAI Gym provides the environment for the CartPole problem.
+- **TensorFlow:** TensorFlow is used for deep reinforcement learning.
+- **NumPy:** NumPy is used for numerical operations.
+- **Math:** Basic math operations are utilized in the code.
+- **Matplotlib:** Matplotlib is used for plotting the rewards over episodes.
+- **Time:** Time is used for tracking the execution time.
 
 ## Installation <a name="install"></a>
 
