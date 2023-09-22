@@ -12,6 +12,7 @@ This Python project solves the CartPole problem from the OpenAI Gym environment 
 - [**Usage**](#usage)
 - [**Results**](#results)
 - [**Contribution**](#contr)
+- [**Conclusion**](#conc)
 
 ## Introduction <a name="intro"></a>
 
@@ -52,3 +53,9 @@ Upon running the CartPole solver, you can expect to see the sum of rewards for e
 ## Contributing <a  name="contr"></a>
 
 Contributions to this project are welcome. If you have suggestions or improvements, please open an issue or submit a pull request.
+
+## Conclusion <a name="conc"></a>
+
+In this project, we tackled the classic CartPole problem using Q-learning, a fundamental reinforcement learning technique. The primary goal was to develop an agent capable of balancing a pole on a moving cart by learning optimal actions over multiple episodes.
+
+In conclusion, this CartPole problem solver showcases the potential of reinforcement learning techniques in solving challenging control problems. Whether you're a beginner exploring reinforcement learning or an experienced practitioner looking for a practical example, we hope this project proves to be insightful and useful. Happy coding and happy learning!
