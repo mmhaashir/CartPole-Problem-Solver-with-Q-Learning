@@ -32,7 +32,7 @@ To run this code, you will need the following Python libraries:
 ## Installation <a name="install"></a>
 
 1. Clone the repository:
-   `git clone https://github.com/mmhaashir/cartpole-q-learning.git`
+   `git clone https://github.com/mmhaashir/CartPole-Problem-Solver-with-Q-Learning.git`
    
 3. Install the required dependencies:
    `pip install gym tensorflow numpy matplotlib`
